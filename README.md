@@ -1,4 +1,4 @@
-[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/03/coming-soon.jpg)](https://mdbootstrap.com/freebies/coming-soon-template/)
+[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/03/coming-soon.jpg)](https://mdbootstrap.com/freebies/jquery/coming-soon/)
 
 # Bootstrap 4 & Material Design - Coming Soon Template 
 
@@ -7,7 +7,7 @@ Free, responsive Coming Soon template containing animated, full-page Intro and T
 ________
 
 # Live Previews: 
-## https://mdbootstrap.com/freebies/coming-soon-template/
+## https://mdbootstrap.com/freebies/jquery/coming-soon/
 
 # Most important features:
 
