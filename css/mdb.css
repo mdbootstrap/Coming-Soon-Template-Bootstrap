@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*!
  * Material Design for Bootstrap 4
- * Version: MDB FREE 4.8.6
+ * Version: MDB FREE 4.8.7
  *
  *
  * Copyright: Material Design for Bootstrap
@@ -8897,7 +8897,6 @@ ul.stepper {
     .treeview-animated .treeview-animated-list .treeview-animated-element.opened:hover {
       color: #f8f9fa;
       background-color: #32a0ff; }
-<<<<<<< HEAD
 
 .treeview-colorful {
   font-size: 16px;
@@ -8983,5 +8982,3 @@ ul.stepper {
       -webkit-transform: rotate(180deg);
       -ms-transform: rotate(180deg);
       transform: rotate(180deg); }
-=======
->>>>>>> 75acff67d445f5d049a92ddda7458478a01716f3
